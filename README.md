@@ -13,8 +13,8 @@ This repository stores coursework and practical exercises related to key subject
 
 ## 📚 Subjects This Semester
 
-| Code | Subject | Topics Covered |
-|------|---------|----------------|
+| Code | Subject |
+|------|---------|
 | 🎲 SECI1143 | Probability & Statistical Data Analysis |
 | 💻 SECJ1023 | Programming Technique II |
 | 🔍 SECP2613 | System Analysis and Design (WBL) | 
